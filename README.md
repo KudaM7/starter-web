@@ -16,7 +16,7 @@ Henry
 
 ##How To Contribute
 
-Please fork this repo and then issur pull requests for review.
+Please fork this repo and then issue pull requests for review.
 
 ##Copyright
 2019 Git.Training.
