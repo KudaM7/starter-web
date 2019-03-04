@@ -19,4 +19,4 @@ Henry
 Please fork this repo and then issue pull requests for review.
 
 ##Copyright
-2019 Git.Training.
+2019 Git.Training. All rights reserved
